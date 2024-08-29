@@ -23,4 +23,4 @@ int main()
     percentage= total/5;
     printf("Total is %d and Percentage is %d",total,percentage);
     return 0;
-}7
+}
